@@ -2968,8 +2968,12 @@ input[type="button"].btn-block {
 
 .nav-tabs {
   border-bottom: 1px solid #f0f0f0; }
+  .nav-item {
+    margin-bottom: -1px; 
+    width: max-content;}
   .nav-tabs .nav-item {
-    margin-bottom: -1px; }
+    margin-bottom: -1px; 
+    width: max-content;}
   .nav-tabs .nav-link {
     border: 1px solid transparent;
     border-top-left-radius: 0;
