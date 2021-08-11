@@ -4779,7 +4779,7 @@ button.bg-dark:focus {
   border-left: 0 !important; }
 
 .border-primary {
-  border-color: #6206a8 !important; }
+  border-color: #ff1801 !important; }
 
 .border-secondary {
   border-color: #f5f6f8 !important; }
@@ -7920,7 +7920,7 @@ button.bg-dark:focus {
   color: #ffffff !important; }
 
 .text-primary {
-  color: #6206a8 !important; }
+  color: #ff1801 !important; }
 
 a.text-primary:hover, a.text-primary:focus {
   color: #37035e !important; }
