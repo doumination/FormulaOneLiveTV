@@ -5,7 +5,7 @@ class HeaderComponent extends HTMLElement {
 
   connectedCallback() {
     this.innerHTML = `
-  <header class="foi-header landing-header">
+  <header class="foi-header">
   <div class="container">
       <nav class="navbar navbar-expand-lg navbar-light foi-navbar">
           <a class="navbar-brand" href="index.html">
