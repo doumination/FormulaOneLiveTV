@@ -28,7 +28,7 @@ class HeaderComponent extends HTMLElement {
                         <li class="nav-item dropdown">
                             <a class="nav-link dropdown-toggle" href="#" id="pagesMenu" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Pages</a>
                             <div class="dropdown-menu" aria-labelledby="pagesMenu">
-                                <a class="dropdown-item" href="blog.html">Blog</a>
+                                <a class="dropdown-item" href="donations.html">Donations</a>
                                 <a class="dropdown-item" href="login.html">Login</a>
                                 <a class="dropdown-item" href="register.html">Register</a>
                                 <a class="dropdown-item" href="faq.html">FAQ</a>
