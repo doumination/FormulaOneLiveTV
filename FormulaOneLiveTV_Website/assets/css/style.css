@@ -3218,7 +3218,7 @@ input[type="button"].btn-block {
 .navbar-light .navbar-nav .nav-link {
   color: #223971; }
   .navbar-light .navbar-nav .nav-link:hover, .navbar-light .navbar-nav .nav-link:focus {
-    color: #223971); }
+    color: #223971; }
   .navbar-light .navbar-nav .nav-link.disabled {
     color: #223971; }
 
@@ -8483,7 +8483,8 @@ html {
   .foi-feature .feature-link {
     font-size: 14px;
     font-weight: 700;
-    color: #6206a8; }
+    color: #6206a8;
+    width: max-content; }
     .foi-feature .feature-link:hover, .foi-feature .feature-link:focus {
       color: #54058f; }
 
