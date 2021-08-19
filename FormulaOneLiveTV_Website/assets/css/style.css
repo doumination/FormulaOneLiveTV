@@ -8484,7 +8484,8 @@ html {
     font-size: 14px;
     font-weight: 700;
     color: #6206a8;
-    width: max-content; }
+    width: max-content;
+    text-align: center; }
     .foi-feature .feature-link:hover, .foi-feature .feature-link:focus {
       color: #54058f; }
 
