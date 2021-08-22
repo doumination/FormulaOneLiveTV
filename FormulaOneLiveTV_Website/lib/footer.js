@@ -1,10 +1,10 @@
 class FooterComponent extends HTMLElement {
-  constructor() {
-    super();
-  }
+    constructor() {
+        super();
+    }
 
-  connectedCallback() {
-    this.innerHTML = `<footer class="foi-footer text-white">
+    connectedCallback() {
+        this.innerHTML = `<footer class="foi-footer text-white">
     <div class="container">
         <div class="row footer-content">
             <div class="col-xl-6 col-lg-7 col-md-8">
@@ -17,7 +17,7 @@ class FooterComponent extends HTMLElement {
         <div class="row footer-widget-area">
             <div class="col-md-3">
                 <div class="py-3">
-                    <img src="assets/images/logo-white.svg" alt="FOI">
+                    <img src="assets/images/main_logo.PNG" alt="F1LTV" class="navlogo">
                 </div>
                 <p class="font-os font-weight-semibold mb3">Get our mobile app</p>
                 <div>
@@ -68,9 +68,6 @@ class FooterComponent extends HTMLElement {
                 </nav>
             </div>
             <div class="col-md-3 mt-3 mt-md-0">
-                <p>
-                    &copy; foi. 2020 <a href="https://www.bootstrapdash.com" target="_blank" rel="noopener noreferrer" class="text-reset">BootstrapDash</a>.
-                </p>
                 <p>All rights reserved.</p>
                 <nav class="social-menu">
                     <a href="#!"><img src="assets/images/facebook.svg" alt="facebook"></a>
@@ -82,7 +79,7 @@ class FooterComponent extends HTMLElement {
         </div>
     </div>
 </footer>`;
-  }
+    }
 }
 
 customElements.define("footer-component", FooterComponent);

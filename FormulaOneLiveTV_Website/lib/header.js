@@ -32,8 +32,6 @@ class HeaderComponent extends HTMLElement {
                                 <a class="dropdown-item" href="login.html">Login</a>
                                 <a class="dropdown-item" href="register.html">Register</a>
                                 <a class="dropdown-item" href="faq.html">FAQ</a>
-                                <a class="dropdown-item" href="404.html">404</a>
-                                <a class="dropdown-item" href="careers.html">Careers</a>
                                 <a class="dropdown-item" href="blog-single.html">Single blog</a>
                                 <a class="dropdown-item" href="privacy-policy.html">Privacy policy</a>
                             </div>
