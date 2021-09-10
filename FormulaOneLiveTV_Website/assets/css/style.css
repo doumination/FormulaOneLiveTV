@@ -8346,6 +8346,7 @@ html {
 .foi-header {
   padding-top: 24px; }
   .foi-header .header-content {
+    width: 130%;
     padding-top: 105px;
     padding-bottom: 40px; }
     .foi-header .header-content h1 {
