@@ -27,42 +27,36 @@ class FooterComponent extends HTMLElement {
             </div>
             <div class="col-md-3 mt-3 mt-md-0">
                 <nav>
-                    <ul class="nav flex-column">
-                        <li class="nav-item">
-                            <a href="#!" class="nav-link">Account</a>
-                        </li>
-                        <li class="nav-item">
-                            <a href="#!" class="nav-link">My tasks</a>
-                        </li>
-                        <li class="nav-item">
-                            <a href="#!" class="nav-link">Projects</a>
-                        </li>
-                        <li class="nav-item">
-                            <a href="#!" class="nav-link">Edit profile</a>
-                        </li>
-                        <li class="nav-item">
-                            <a href="#!" class="nav-link">Activity</a>
-                        </li>
-                    </ul>
+                <ul class="nav flex-column">
+                <li class="nav-item">
+                    <a href="index.html" class="nav-link">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a href="broadcast.html" class="nav-link">Broadcast</a>
+                </li>
+                <li class="nav-item">
+                    <a href="#!" class="nav-link">Emojies</a>
+                </li>
+                <li class="nav-item">
+                    <a href="#!" class="nav-link">Live Chat</a>
+                </li>
+            </ul>
                 </nav>
             </div>
             <div class="col-md-3 mt-3 mt-md-0">
                 <nav>
                     <ul class="nav flex-column">
                         <li class="nav-item">
-                            <a href="#!" class="nav-link">About</a>
+                            <a href="#!" class="nav-link">Features</a>
                         </li>
                         <li class="nav-item">
-                            <a href="#!" class="nav-link">Services</a>
+                            <a href="https://discord.gg/WSKZThQ4gA" class="nav-link">Discord</a>
                         </li>
                         <li class="nav-item">
-                            <a href="#!" class="nav-link">Careers <span class="badge badge-pill badge-secondary ml-3">Hiring</span></a>
+                            <a href="#!" class="nav-link">Join Us</a>
                         </li>
                         <li class="nav-item">
-                            <a href="#!" class="nav-link">Blog</a>
-                        </li>
-                        <li class="nav-item">
-                            <a href="#!" class="nav-link">Shop with us</a>
+                            <a href="#!" class="nav-link">Login</a>
                         </li>
                     </ul>
                 </nav>

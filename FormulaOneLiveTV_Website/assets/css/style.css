@@ -1931,26 +1931,26 @@ fieldset:disabled a.btn {
 
 .btn-danger {
   color: #ffffff;
-  background-color: #fe3f3e;
-  border-color: #fe3f3e; }
+  background-color: #ff1801;
+  border-color: #ff1801; }
   .btn-danger:hover {
     color: #ffffff;
-    background-color: #fe1918;
-    border-color: #fe0d0b; }
+    background-color: #ff1801;
+    border-color: #ff1801; }
   .btn-danger:focus, .btn-danger.focus {
     color: #ffffff;
-    background-color: #fe1918;
-    border-color: #fe0d0b;
+    background-color: #ff1801;
+    border-color: #ff1801;
     box-shadow: 0 0 0 0.2rem rgba(254, 92, 91, 0.5); }
   .btn-danger.disabled, .btn-danger:disabled {
     color: #ffffff;
-    background-color: #fe3f3e;
-    border-color: #fe3f3e; }
+    background-color: #ff1801;
+    border-color: #ff1801; }
   .btn-danger:not(:disabled):not(.disabled):active, .btn-danger:not(:disabled):not(.disabled).active,
   .show > .btn-danger.dropdown-toggle {
     color: #ffffff;
-    background-color: #fe0d0b;
-    border-color: #fb0301; }
+    background-color: #ff1801;
+    border-color: #ff1801; }
     .btn-danger:not(:disabled):not(.disabled):active:focus, .btn-danger:not(:disabled):not(.disabled).active:focus,
     .show > .btn-danger.dropdown-toggle:focus {
       box-shadow: 0 0 0 0.2rem rgba(254, 92, 91, 0.5); }

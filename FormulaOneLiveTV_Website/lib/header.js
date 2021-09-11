@@ -30,9 +30,8 @@ class HeaderComponent extends HTMLElement {
                             <div class="dropdown-menu" aria-labelledby="pagesMenu">
                                 <a class="dropdown-item" href="donations.html">Donations</a>
                                 <a class="dropdown-item" href="login.html">Login</a>
-                                <a class="dropdown-item" href="register.html">Register</a>
+                                <a class="dropdown-item" href="register.html">Join Us</a>
                                 <a class="dropdown-item" href="faq.html">FAQ</a>
-                                <a class="dropdown-item" href="blog-single.html">Single blog</a>
                                 <a class="dropdown-item" href="privacy-policy.html">Privacy Policy</a>
                             </div>
                         </li>
@@ -42,7 +41,7 @@ class HeaderComponent extends HTMLElement {
                     </ul>
                     <ul class="navbar-nav mt-2 mt-lg-0">
                         <li class="nav-item mr-2 mb-3 mb-lg-0">
-                            <a class="btn btn-secondary" href="register.html">Sign up</a>
+                            <a class="btn btn-secondary" href="register.html">Join Us</a>
                         </li>
                         <li class="nav-item">
                             <a class="btn btn-secondary" href="login.html">Login</a>
